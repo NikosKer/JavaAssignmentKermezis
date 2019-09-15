@@ -1,0 +1,6 @@
+com\phonenumbers\interaction\MyFrame.class
+com\phonenumbers\generators\NumberGenerator.class
+com\phonenumbers\interaction\MyFrame$TextFieldHandler.class
+com\phonenumbers\interaction\App.class
+com\phonenumbers\interaction\MyFrame$1.class
+com\phonenumbers\validation\PhoneNumberValidator.class
